@@ -5,5 +5,4 @@ puts values[rand(9)]+" of "+suits[rand(4)]
 
 puts "#{values.sample} of #{suits.sample}"
 
-
 puts "Good."
